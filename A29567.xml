@@ -1,0 +1,451 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Achitophel befool'd a sermon preached November V, 1678 at St. Sepulchres / by Aaron Baker ...</title>
+            <author>Baker, Aaron, b. 1651 or 2.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 52 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29567</idno>
+            <idno type="STC">Wing B478</idno>
+            <idno type="STC">ESTC R5235</idno>
+            <idno type="EEBO-CITATION">13686697</idno>
+            <idno type="OCLC">ocm 13686697</idno>
+            <idno type="VID">101345</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29567)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101345)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 833:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Achitophel befool'd a sermon preached November V, 1678 at St. Sepulchres / by Aaron Baker ...</title>
+                  <author>Baker, Aaron, b. 1651 or 2.</author>
+               </titleStmt>
+               <extent>[4], 35 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Rich. Royston ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title: A sermon preached at St. Sepulchres, November V, 1678.</note>
+                  <note>Reproduction of original in Bristol Public Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Samuel, 2nd, XV, 31 --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101345:1"/>
+            <p>Achitophel Befool'd: A SERMON PREACHED <hi>NOVEMBER</hi> V. 1678. AT S<hi rend="sup">t.</hi> SEPULCHRES.</p>
+            <p>By <hi>AARON BAKER,</hi> M. A. and late of <hi>Wadham</hi> Colledge <hi>Oxon.</hi>
+            </p>
+            <figure>
+               <q>QVISEQVITUR ME NON AMBULAT IN TENEBRIS.</q>
+               <figDesc>printer's device of Richard Royston</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Prunted for <hi>Rich. Royſton,</hi> Bookſeller to His moſt Sacred MAJESTY, <hi>An. Dom.</hi> MDCLXXVIII.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:101345:2"/>
+            <pb facs="tcp:101345:2"/>
+            <head>To the REVEREND D<hi rend="sup">r.</hi> J. TILLOTSON, Dean of <hi>Canterbury,</hi> and Chaplain in Ordinary to his MAJESTY.</head>
+            <opener>
+               <salute>Reverend Sir,</salute>
+            </opener>
+            <p>THE Importunity of Friends could never have prevailed with me to let this Diſcourſe come abroad, had not your better Judgment complyed with their deſires. This is enough to make it paſs among <hi>thoſe within;</hi> And as for <hi>thoſe without,</hi> I muſt expect to <hi>become their Enemy becauſe I tell them the Truth;</hi> and though I have endeavoured to <hi>rebuke them with a ſpirit of Meekneſs,</hi> I do not ſuppoſe they will receive it ſo. They have a way of anſwering us, by thoſe <hi>Inſtru<g ref="char:EOLhyphen"/>ments of Cruelty</hi> that <hi>are in their habi<g ref="char:EOLhyphen"/>tations;</hi> ſo that we ſhall never reply more, unleſs by our <hi>blood,</hi> that <hi>cryes for Vengeance.</hi> But the Will of God be done: If we muſt be <hi>ſent as Sheep in the midſt of Wolves,</hi> and that too by the <hi>great Shepheard and Biſhop of our
+<pb facs="tcp:101345:3"/>Souls,</hi> it behoves us all that are under-Shepheards, by Patience and Innocence to become <hi>Examples to the Flock.</hi> But I hope the <hi>Lord of David</hi> will <hi>ſnatch us out of the Jaws of theſe Lyons and Bears,</hi> and <hi>Experience works</hi> that <hi>Hope</hi> that <hi>he who hath deliver'd, will deliver us;</hi> and he <hi>hath deliver'd us out of ſix troubles and out of ſeven.</hi> But whatſo<g ref="char:EOLhyphen"/>ever becomes of ſuch mean Lamps as my ſelf, my hearty Prayer to God is, that ſuch <hi>burning and ſhining Lights</hi> as You are in the Church, may never be put out by theſe Extinguiſhers, but continue to <hi>turn many unto Righteouſneſs,</hi> till in God's good time you ſhall be tranſlated to <hi>ſhine as Stars in the Firmament of Glory.</hi> Sir, I earneſtly recommend you, and all your Pious and learned Labours in the Vine<g ref="char:EOLhyphen"/>yard, to the Bleſſings of him who is Lord of it, and am</p>
+            <closer>
+               <dateline>
+                  <hi>From my Study</hi> 
+                  <date> this <hi>16</hi> Novemb. <hi>1678.</hi>
+                  </date>
+               </dateline>
+               <signed>
+                  <hi>Your moſt obliged and humbly Devoted Servant,</hi> Aaron Baker.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:101345:3"/>
+            <head>A SERMON Preached at S<hi rend="sup">t.</hi> 
+               <hi>SEP<g ref="char:V">Ʋ</g>LCHRES, November</hi> V. 1678.</head>
+            <epigraph>
+               <bibl>
+                  <hi>2 SAM. XV. 31.</hi>
+               </bibl>
+               <q>And one told <hi>David,</hi> ſaying, <hi>Achi<g ref="char:EOLhyphen"/>tophel</hi> is among the Conſpirators with <hi>Abſalom;</hi> and <hi>David</hi> ſaid, O Lord, I pray thee, turn the Counſel of <hi>Achi<g ref="char:EOLhyphen"/>tophel</hi> into fooliſhneſs.</q>
+            </epigraph>
+            <p>NO Danger can appear more Dread<g ref="char:EOLhyphen"/>full than that which is known to be plotted by Wickedneſs armed with Subtilty and Power; Such is that Danger which is in this place repreſented to <hi>David,</hi> being pro<g ref="char:EOLhyphen"/>jected
+<pb n="2" facs="tcp:101345:4"/>by <hi>Achitophel,</hi> that State <hi>Machiavel</hi> in <hi>Iſrael</hi> at that time. And this Danger muſt be the Subject of our preſent Diſcourſe, now we are met upon occaſion of Thankſgiving at this Anniverſary Commemoration</p>
+            <p>The words are a Part of that Hiſtory which records <hi>Abſaloms</hi> Treaſon againſt the King his Father. I ſhall divide them into theſe two Generals:</p>
+            <p>Firſt, A <hi>Diſcovery of Danger</hi> made to <hi>Da<g ref="char:EOLhyphen"/>vid.</hi>
+            </p>
+            <p>Secondly, <hi>David's Defenſative</hi> againſt this Danger.</p>
+            <p>Concerning the Firſt, I ſhall enquire into three Things.</p>
+            <p>Firſt, What the <hi>Danger</hi> was?</p>
+            <p>Secondly, Who it is that is noted as a chief <hi>Actor</hi> or <hi>Adviſer</hi> in this Conſpiracy? <hi>Achitophel.</hi>
+            </p>
+            <p>Thirdly, By whom this <hi>Diſcovery</hi> was made? <hi>And one told David.</hi>
+            </p>
+            <p>The Firſt General is an Advertiſement given to <hi>David,</hi> or a Diſcovery of Danger, and there<g ref="char:EOLhyphen"/>fore our firſt Enquiry muſt be, What kind of Danger it was.</p>
+            <p>This is eaſily collected from the Text, <hi>Achi<g ref="char:EOLhyphen"/>tophel among the Conſpirators.</hi> So that the Danger was, a Conſpiracy againſt <hi>David</hi> God's Anoin<g ref="char:EOLhyphen"/>ted,
+<pb n="3" facs="tcp:101345:4"/>ſuch as we Commemorate this day. For the better underſtanding whereof, we muſt re<g ref="char:EOLhyphen"/>flect on the former Paſſages of this Hiſtory; where we ſhall find the Author of the Conſpi<g ref="char:EOLhyphen"/>racy to be <hi>Abſalom,</hi>
+               <note place="margin">2 Sam. 3.2.</note> 
+               <hi>David</hi>'s Son by <hi>Maacha the daughter of Tahmai King of Geſhur,</hi> a man of that goodly Perſonage and Endowments, that he was at once the Love and Beauty of <hi>Iſrael:</hi> a man of that exquiſite Frame and Compoſure of Body,
+<note place="margin">2 Sam. 14.2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> that <hi>from the ſole of his Foot to the Crown of his Head, there was no blemiſh in him.</hi> This <hi>Abſalom</hi> not long ſince returned from Baniſhment after the Murther of his Bro<g ref="char:EOLhyphen"/>ther <hi>Amnon;</hi> and after ſome reſtraint in <hi>Jeruſa<g ref="char:EOLhyphen"/>lem,</hi> reconciled to his Father by the means of <hi>Joab,</hi> who ſuborned the Woman of <hi>Tekoah</hi> to work on <hi>David</hi> by a Parable, is again received into Grace and Favour of his Compaſſionate and Royal Father. But Pride and Ambition not ſuffering his haughty Spirit to content it ſelf with a moderate Proſperity, are reſtleſs within him, till they have wrought his aſpiring Mind to aim and level at a Kingdom: Hence it is, that he runs into a deſperate Rebellion; and that he might the more eaſily pluck the Crown from the Royal head of his Indulgent Father, he uſeth his utmoſt diligence to become
+<pb n="4" facs="tcp:101345:5"/>Popular, and by his ſeeming Affability to win the Affections of the heedleſs Multitude. Am<g ref="char:EOLhyphen"/>bition wants no Diligence. Whence <hi>he riſeth up early and ſtandeth in the Gate,</hi>
+               <note place="margin">2 Sam. 15.2.</note> where he com<g ref="char:EOLhyphen"/>plements all that paſs by; And <hi>when any man that had a Controverſie came to the King for Judge<g ref="char:EOLhyphen"/>ment,</hi> he would caſt Aſperſions on his Fathers Government, as, Firſt, An Imputation of Re<g ref="char:EOLhyphen"/>miſſeneſs and Negligence,
+<label type="milestone">
+                  <seg type="milestoneunit">Verſe </seg>3</label> 
+               <hi>Thy matters are good and right, but the King deputes no man to hear Cauſes.</hi> Secondly, An Imputation of <hi>In<g ref="char:EOLhyphen"/>juſtice,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Verſ. </seg>4</label> 
+               <hi>Abſalom</hi> muſt be fain to do it, <hi>David</hi> would not. And Thirdly, An Imputa<g ref="char:EOLhyphen"/>tion of <hi>Pride,</hi> too much Reſervedneſs and Haughtineſs. <hi>David</hi> belike kept too much State, while <hi>Abſalom</hi> kiſſed thoſe that came to him;
+<label type="milestone">
+                  <seg type="milestoneunit">Verſ. </seg>5</label> but as <hi>Judas</hi>'s Treaſon was breath'd forth in a Kiſs, ſo this Popularity of <hi>Abſalom</hi> was but the Veyl to his Unnatural Treachery. For the End of all his Kindneſs was, <hi>Stealing</hi> away <hi>the Hearts of Iſrael</hi> from the King,
+<label type="milestone">
+                  <seg type="milestoneunit">Verſ. </seg>6</label> and the laſt and ultimate end of that, no leſs than Uſur<g ref="char:EOLhyphen"/>pation of the Crown; The Theft of hearts from their Natural and lawful Sovereign came all to this upſhot,
+<label type="milestone">
+                  <seg type="milestoneunit">Verſ. </seg>4</label> 
+               <hi>Quis me conſtituet Judicem? O that I were made Judge in the Land!</hi>
+            </p>
+            <p>And now having gain'd (as he thought) the
+<pb n="5" facs="tcp:101345:5"/>Peoples hearts (whoſe ſimplicity is eaſily abu<g ref="char:EOLhyphen"/>ſed with the deſire of Novelty and <hi>fair ſpeeches</hi>) he puts on a Pretence of Religion (as the <hi>Pa<g ref="char:EOLhyphen"/>piſts</hi> did in this their matchleſs Conſpiracy) and tells <hi>David,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Verſe </seg>7</label> that he had a <hi>Vow</hi> to be paid at <hi>Hebron;</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Verſe </seg>9</label> but he had no ſooner obtained leave to go thither,
+<label type="milestone">
+                  <seg type="milestoneunit">Verſe </seg>10</label> but he <hi>ſent</hi> Emiſſaries <hi>(ſecret ſpies) throughout all the Tribes of Iſrael,</hi> to feel the Incli<g ref="char:EOLhyphen"/>nations of the People, and to draw a Party to meet him at <hi>Hebron;</hi> where having gathered his <hi>Counſellors</hi> and Abettors,
+<label type="milestone">
+                  <seg type="milestoneunit">Verſe </seg>12</label> he quickly made it appear, that, That which drew him to <hi>Hebron</hi> was his Devotion to the Crown, not the Altar. <hi>Abſalom</hi> is proclaimed King, <hi>Abſalom reigneth in Hebron.</hi>
+            </p>
+            <p>News of this is ſoon brought to <hi>David,</hi> for, a <hi>Meſsenger</hi> comes and tells him,
+<label type="milestone">
+                  <seg type="milestoneunit">Verſe </seg>13</label> that <hi>the hearts of the men of Iſrael are after Abſalom;</hi> to which <hi>David</hi> hath nothing to ſay, but ſpeaks <hi>to his ſer<g ref="char:EOLhyphen"/>vants,</hi> and thoſe <hi>that were with him,
+<label type="milestone">
+                     <seg type="milestoneunit">Verſe </seg>14</label> to ariſe and flee from Jeruſalem.</hi> And now in his flight in great Diſtraction for fear of the Traitour his Son,
+<label type="milestone">
+                  <seg type="milestoneunit">Verſe </seg>30</label> as he was going up Mount <hi>Olivet</hi> with <hi>his head cover'd</hi> (a token of Subjection,
+<note place="margin">
+                  <hi>Willet,</hi> p. 95.</note> as ſome think) his <hi>feet bare</hi> and <hi>eyes weeping</hi> (Symbols of his Humiliation) behold another Meſſenger overtakes him, and tells him more particu<g ref="char:EOLhyphen"/>larly
+<pb n="6" facs="tcp:101345:6"/>of the Conſpiracy and Conſpirators. <hi>One told David, ſaying, Achitophel is among the Conſpira<g ref="char:EOLhyphen"/>tors with Abſalom,</hi> &amp;c.</p>
+            <p>Here then we may behold the horridneſs of this Sin of Conſpiring <hi>againſt the Lords anointed,</hi>
+               <note place="margin">1 Sam. 26.9.</note> and how Infamous Conſpirators have been in all Ages. <hi>Abſalom</hi>'s Treaſon in this Story, writ<g ref="char:EOLhyphen"/>ten in the indelible Characters of the Scriptures by the Holy Spirit of God, and there painted out in its proper colours to the life, with all his Art of Plotting and Contriving, has made him odious to all Poſterity. How are his cunning Inſinuations into the Peoples Affection, and his Affability and Popularity diſplayed? how his pretence of Piety and Religion? And this, partly to let us know, that the wicked and irreligious Hypocrites care not how they mock God, ſo they may abuſe and miſlead the Peo<g ref="char:EOLhyphen"/>ple; and partly to acquaint us, that the Beſt, not only Kings, but Men, have not been able to ſecure themſelves from the Traiterous Plots and underminings of the Wicked, who make no Conſcience of paying Obedience to Gods Vicegerent. For was it not <hi>David</hi>'s caſe, <hi>a man after</hi> God's <hi>own heart,</hi> more than once? Here <hi>Abſalom</hi> the Son of his own bowels, and ſoon after <hi>Sheba the Son of Bichri blew the Trumpet;
+<pb n="7" facs="tcp:101345:6" rendition="simple:additions"/>What Part have we in David?</hi> and who, as <hi>Da<g ref="char:EOLhyphen"/>vid</hi> himſelf ſaid,
+<note place="margin">2 Sam. 20.6.</note> was like to do him <hi>more harm than did Abſalom.</hi> This was St. <hi>Paul</hi>'s Caſe too, <hi>Certain Jews, more than forty in the Conſpiracy,</hi>
+               <note place="margin">Acts 23.12, 13.</note> 
+               <hi>bound themſelves under a curſe neither to eat nor drink 'till they had killed Paul.</hi> And thus it was with our Saviour himſelf, for he had but twelve Diſciples, and yet one of them a Traitor. No marvel then if Queen <hi>Elizabeth</hi> of ever fragrant memory, King <hi>James</hi> a pious and Proteſtant Prince, and as a ſeaſonable and happy Diſco<g ref="char:EOLhyphen"/>very makes it even now appear, our preſent King <hi>Charles</hi> the Second, have found the ſame Lot in their and our Times from the hands of Bloody and murtherous <hi>Papiſts.</hi> Zeal of the Holy Cauſe, Extirpation of Hereticks, and the ſpreading of the Catholick Religion, were their Pretence in this, as well as in other their Plots and Conſpiracies. Whence they are the worſt ſort of Politicians, never bogling at, nor making any Conſcience of driving on their Pro<g ref="char:EOLhyphen"/>jects and wicked Self-ends under the Vizard and Petence of Religion. Thus it was, we ſee, with <hi>Abſalom</hi> in my Text; when he intends to raiſe a Rebellious Army againſt <hi>David</hi> his Fa<g ref="char:EOLhyphen"/>ther, he pretends he muſt to <hi>Hebron</hi> to ſacrifice, he hath a <hi>Vow</hi> to be performed <hi>to the Lord in
+<pb n="8" facs="tcp:101345:7"/>Hebron.</hi> So <hi>Herod,</hi> when his Purpoſe was to kill Chriſt,
+<note place="margin">Mat. 2.8.</note> pretends that he would go and <hi>worſhip</hi> the Babe that was born. And how did <hi>Julian</hi> cry up Piety and Reformation, when he had no other End, but ſacrilegiouſly to take away the Revenues of the Church, that Chri<g ref="char:EOLhyphen"/>ſtian Religion for want of maintenance for the Miniſters of the Goſpel, might inſenſibly decay and fall to the Ground? But let ſuch wretched Politicians know, that as there is nothing more Odious to God, than to make Religion thus baſely ſubſervient to Policy; ſo they are the worſt and moſt dangerous ſort of Hypocrites, and cannot long eſcape the Wrath and fearful Vengeance of God, whoſe Religion they thus make a Mockery of, to ſerve their own moſt wicked Ends and Purpoſes. And ſo much may ſuffice to be ſpoken of the <hi>firſt</hi> Branch of our Enquiry into the Diſcovery, <hi>namely,</hi> What the Danger was? <hi>A Conſpiracy.</hi>
+            </p>
+            <p>Come we now to the <hi>Second,</hi> Who a chief Actor, Ring-leader or Adviſer in this Conſpi<g ref="char:EOLhyphen"/>racy? and the Text tells us, It was <hi>Achitophel. Achitophel with Abſalom.</hi>
+            </p>
+            <p>Now this <hi>Achitophel,</hi> if we enquire into his Birth, was born in the City of <hi>Giloh,</hi> which <hi>Joſhua</hi> numbers amongſt the Cities of the
+<note place="margin">Joſh. 15.51.</note>
+               <pb n="9" facs="tcp:101345:7"/>Tribe of <hi>Judah.</hi> Whence in the 12<hi rend="sup">th</hi> Verſe of the ſame Chapter with my Text, we find him called, <hi>Achitophel the Gilomite.</hi>
+            </p>
+            <p>For his Place and Relation to <hi>David;</hi> beſide that of a Subject, which had been Obligati<g ref="char:EOLhyphen"/>on enough to have engag'd his Loyalty and Obedience, he was <hi>David</hi>'s Counſellor, one that did partake of his Secrets, and with whom he did principally Adviſe about the Affairs of State. <hi>Achitophel David</hi>'s <hi>Counſel<g ref="char:EOLhyphen"/>lor.</hi>
+            </p>
+            <p>And laſtly, for his Parts and Abilities, and his Eſtimation in giving Counſel, he was ſo Prudent and Wiſe, that it is ſaid, that the Counſel of <hi>Achitophel was as the Oracle of God;</hi>
+               <note place="margin">2 Sam. 16. <hi>ult.</hi>
+               </note> 
+               <hi>Non ratione Rectitudinis Conſilii, ſed Adhaeſionis,</hi>
+               <note place="margin">
+                  <hi>Cajet.</hi> in loc.</note> ſaith <hi>Cajetan;</hi> ſuch Eſtimation found it <hi>both with David and with Abſalom.</hi> Hence it was, that <hi>Abſalom</hi> had an Eye on him in the hatch<g ref="char:EOLhyphen"/>ing of this Treaſon, and ſent for <hi>Achitophel</hi> for the benefit of his Advice and prudent Con<g ref="char:EOLhyphen"/>duct: So that well might <hi>David</hi> complain of the Greatneſs of his diſtreſs, in regard of the Perſons by whom it was effected; <hi>Abſalom</hi> his Son, and <hi>Achitophel</hi> his Counſellor; the one out of his own Loins, the other from his own Board and Council-Table. Who could
+<pb n="10" facs="tcp:101345:8"/>have ſuſpected or fear'd any ſuch thing from theſe? and yet behold Theſe are the Conſpi<g ref="char:EOLhyphen"/>rators. <hi>David</hi> indeed reſents it, and com<g ref="char:EOLhyphen"/>plains heavily of it, as a hurden intolerable. If an <hi>Enemy</hi> had done this unto me,
+<note place="margin">Pſal. 55.</note> 
+               <hi>I could have born it;</hi> we can look for no leſs from an Enemy, who profeſſes Hoſtility; but alas, ſaith <hi>David, it was thou my Companion, and my Guide,</hi> my boſom <hi>Acquaintance, my Counſellor, and my familiar Friend; we took ſweet counſel to<g ref="char:EOLhyphen"/>gether,</hi> &amp;c. This was it that ſate near un<g ref="char:EOLhyphen"/>to the Royal Pſalmiſt's heart, that the Trea<g ref="char:EOLhyphen"/>ſon was menag'd by ſo near an Inſtrument. There are no Wounds to the Wounds of a Friend. Even our Saviour Chriſt took it to his very heart,
+<note place="margin">Zech. 13.6.</note> that he <hi>was wounded in the houſe of his Friends.</hi>
+            </p>
+            <p>And is the Treaſon of this day free from the like Guilt? May it not be juſtly tax'd with this very Circumſtance? Was it not to have been Acted againſt the King by his own Subjects, Perſons that had receiv'd many ſingular Favours from his happy Government and Royal Clemency towards them? Had they not a Propriety in their Eſtates, the Benefit and Security of the Laws? Yes certainly, they ate of the Fat of the Land,
+<note place="margin">1 King 4.25.</note> they ſate <hi>under
+<pb n="11" facs="tcp:101345:8"/>their</hi> own <hi>Vine, and under their</hi> own <hi>Fig-tree,</hi> without the leaſt diſturbance of a <hi>Sequeſtra<g ref="char:EOLhyphen"/>tion</hi> or an <hi>Inquiſition</hi> as to their Superſtitious and Idolatrous Religion. <hi>Achitophel</hi> is among the Conſpirators with <hi>Abſalom</hi> in the Text; and Subjects in the Conſpiracy of the Day.</p>
+            <p>
+               <hi>Achitophel</hi> was of <hi>David</hi>'s Privy-Council, a great Stateſman, and a cunning Politician, and therefore a very dangerous and remarka<g ref="char:EOLhyphen"/>ble Conſpirator. The greateſt Wits prove moſt Pernicious, when they are miſimployed. Who ſo wiſe as <hi>Achitophel?</hi> When he was <hi>Da<g ref="char:EOLhyphen"/>vid</hi>'s Counſellor, the Oracle of God; what a Stay, what a Prop, what a Pillar and Sup<g ref="char:EOLhyphen"/>port to a Church or State? But now, who more formidable to <hi>David?</hi> How is <hi>David</hi> ſtartled to hear, that <hi>Achitophel is among the Con<g ref="char:EOLhyphen"/>ſpirators?</hi>
+            </p>
+            <p>Wiſe Politicians if wicked, are of all others moſt Deſtructive. So was <hi>Catiline</hi> among the <hi>Romans,</hi> a great Wit, but a moſt pernicious Rebel; And ſo the <hi>Gracchi</hi> in the ſame State, wiſe and eloquent, but to the publick detri<g ref="char:EOLhyphen"/>ment</p>
+            <p>It was the Caſe of theſe <hi>Popiſh</hi> Traitors, many of them of good Birth and great Parts; but how did they caſt away their Abilities?
+<pb n="12" facs="tcp:101345:9"/>God beſtowed them on them, but they em<g ref="char:EOLhyphen"/>ployed them in the Devil's Service. But O that we could learn, that when God gives us Parts, as Learning and Wiſdom, to employ them to his Glory, and the Churches good. Take heed of being <hi>Achitophels,</hi>
+               <note place="margin">Jer. 4.22.</note> 
+               <hi>wiſe to do Evil, but not to do Good.</hi> Our good Parts, if abuſed, will one day turn to our greater Condem<g ref="char:EOLhyphen"/>nation; and Knowledge miſemployed will but encreaſe our <hi>Stripes.</hi>
+               <note place="margin">Luk. 12.47.</note> And let us beware likewiſe of ſinning againſt the Laws of Gra<g ref="char:EOLhyphen"/>titude and near Relations; for we may be aſſured, that God's Juſtice looks upon and will ſeverely puniſh the unnaturalneſs of our ſins, as when Sons Rebell againſt their Fa<g ref="char:EOLhyphen"/>ther, or Subjects againſt their Prince, there<g ref="char:EOLhyphen"/>by ſubverting the Laws of Nature it ſelf. <hi>Mark thoſe that cauſe Diviſions amongſt you, and avoid them,</hi>
+               <note place="margin">Ch. 16. verſ. 17.</note> was St. <hi>Paul</hi>'s Advice to the <hi>Ro<g ref="char:EOLhyphen"/>mans.</hi> As we muſt ſhun Faction and Rebel<g ref="char:EOLhyphen"/>lion, ſo muſt we avoid all Occaſions condu<g ref="char:EOLhyphen"/>cing thereunto, and eſpecially <hi>mark thoſe that cauſe</hi> them, that are Chief Actors and Ring<g ref="char:EOLhyphen"/>leaders in them. For as <hi>Achitophel</hi> is here ob<g ref="char:EOLhyphen"/>ſerved above others, ſo in all Seditions the Leaders and Counſellors are moſt Notorious, the People but Followers ſeduced and miſled.
+<pb n="13" facs="tcp:101345:9"/>In the 2<hi rend="sup">d</hi> 
+               <hi>Sam.</hi> 20.1. <hi>Sheba blew the Trumpet,</hi> and in the 2<hi rend="sup">d</hi> Verſe it follows, <hi>Every man of Iſrael went up from after David, and followed Sheba the Son of Bichri.</hi> And ſo here in my Text, <hi>Achitophel</hi> plotted,
+<note place="margin">Verſe 11.</note> the reſt <hi>went</hi> out <hi>in their ſim<g ref="char:EOLhyphen"/>plicity, and knew not any thing</hi> of <hi>Abſalom</hi>'s or <hi>Achitophel</hi>'s Intent, though at laſt they were eaſily won upon and drawn into the Con<g ref="char:EOLhyphen"/>ſpiracy.</p>
+            <p>Which that we may Parallel in the <hi>Powder-Treaſon:</hi> Were not ſome <hi>Papiſts</hi> ſingled out to be the Actors, as <hi>Fawks</hi> and <hi>Catesby?</hi> While the reſt had deſign'd their time to come in and do their Parts, if God's Mercy had not prevented their Deſigns, and ſeaſonably inter<g ref="char:EOLhyphen"/>pos'd it ſelf in the Defeating of their Counſels. What the Prophet <hi>Iſaiah</hi> ſaid once of the ſin<g ref="char:EOLhyphen"/>ful <hi>Jews,</hi> may be fitly applyed to them,
+<note place="margin">Chap. 59. <hi>v.</hi> 6, 7.</note> 
+               <hi>Their works are works of Iniquity, and the Act of Violence is in their hands; their Feet ran to evil, and they made haſte to ſhed Innocent blood;</hi> and therefore <hi>their Webs ſhall not become Garments;</hi> their hopes ended in diſappointment, for their Plot was diſcover'd,
+<note place="margin">Pſal. 10.2.</note> and they <hi>taken in the crafty Wily<g ref="char:EOLhyphen"/>neſs that they</hi> had <hi>Imagined.</hi> Which brings me to</p>
+            <p>The <hi>third</hi> particular Enquiry, By whom
+<pb n="14" facs="tcp:101345:10"/>the Diſcovery is made. <hi>And one told David.</hi>
+            </p>
+            <p>The Vulgar renders it, <hi>Et nunciatum eſt Da<g ref="char:EOLhyphen"/>vid;</hi> In the <hi>Hebrew</hi> Elliptically, <hi>Et David in<g ref="char:EOLhyphen"/>dicavit,</hi> i. e. <hi>indicavit quiſpiam,</hi> as <hi>Montanus,</hi> or <hi>quidam;</hi> No name, an <hi>Individuum vagum.</hi> It doth not appear, that he was any employed by <hi>David;</hi> but rather one that came Caſually or Providentially, by Gods own Diſpenſati<g ref="char:EOLhyphen"/>on and peculiar Miſſion; one not thought on, or put upon any ſuch Employment: to Teach us, that God doth many times bring to light Conſpiracies againſt Kings and States by ſtrange and wonderful Means. As he hath profeſſed himſelf to be the Protector of his Anointed, and his Church, that <hi>the Gates of Hell ſhall not prevail againſt</hi> the One,
+<note place="margin">Mat. 16.18.</note> nor the <hi>Sons of Violence</hi> approach to <hi>hurt</hi> the other;
+<note place="margin">Pſal. 89.23.</note> ſo he hath appeared Marvellous in the detection and manifeſtation of the Practiſes of the Wic<g ref="char:EOLhyphen"/>ked, though never ſo ſecret and cloſe. I can<g ref="char:EOLhyphen"/>not inſtance in a plainer Caſe, nor indeed in any more pertinent to our purpoſe, than that which is the Occaſion of this days Thankſ<g ref="char:EOLhyphen"/>giving. For certainly none can doubt, but that the hand of God was in the Diſcovery, while the Treaſon was brought to light by a <hi>Quidam,</hi> a Letter from an unknown Perſon,
+<pb n="15" facs="tcp:101345:10"/>which the King by God's direction conſtrued aright, and ſo fore-ſeeing the danger, prevented the fatal ſtroke.</p>
+            <p>How then ſhould this deter men from Conſpiring againſt <hi>the Lords Anointed,</hi> ſince God is ſo engag'd in the defence of their Perſons, that rather than they ſhould periſh by the Plots and Conſpiracies of the Wicked, he will bring to paſs ſtrange Diſcoveries, though even by the expence of Extraordinary and Miracu<g ref="char:EOLhyphen"/>lous means. In the Scripture we are forbid<g ref="char:EOLhyphen"/>den to <hi>ſpeak evil of Dignities:</hi>
+               <note place="margin">Jude <hi>v.</hi> 8.</note> But how little this Prohibition is regarded by us of this Na<g ref="char:EOLhyphen"/>tion, I leave you to judge, who cannot but be ſenſible ſurely of the frequency of Whiſper<g ref="char:EOLhyphen"/>ings againſt God's Vicegerent; of the Num<g ref="char:EOLhyphen"/>ber of ſeditious Pamphlets and ſcandalous Li<g ref="char:EOLhyphen"/>bels, that have of late years ſtollen out into Print, to rob our Governours Eccleſiaſtical and Civil of their Reputation, ſome murmur<g ref="char:EOLhyphen"/>ing, others mutining againſt their Rulers, de<g ref="char:EOLhyphen"/>tracting from the worth of their Good deeds, and amplifying and aggravating their Bad, that ſo by traducing their Government, they may the ſooner ripen the People for a Rebel<g ref="char:EOLhyphen"/>lion againſt the firſt Opportunity. But, this Practice is no leſs ſinful than common, for
+<pb n="16" facs="tcp:101345:11"/>'tis a notorious thwarting the Commands of Scripture; <hi>Thou ſhalt not revile the Gods</hi> (ſaith <hi>Moſes) nor curſe the Ruler of my People.</hi>
+               <note place="margin">Exod. 22.28.</note> We may not Whiſper or ſpeak evil, much leſs Plot and Conſpire the Death of our <hi>Sovereign</hi> the <hi>Lords Anointed.</hi> I ſhall conclude this Par<g ref="char:EOLhyphen"/>ticular with that of the Royal Preacher: <hi>Curſe not the King,</hi>
+               <note place="margin">Eccleſ. 10. <hi>ult.</hi>
+               </note> 
+               <hi>no not in thy Bed-chamber, nor in thy Thoughts, for</hi> (it ſhall not be conceal'd) <hi>a Bird of the Air ſhall carry the voice, and that which hath wings ſhall tell the Matter.</hi> God will have it diſcovered by ſome Means or other. I have done with the <hi>firſt</hi> General propoſed, <hi>A Diſcovery of the Danger</hi> toward <hi>David,</hi> in the firſt words of my Text. <hi>And one told David, ſaying, Achitophel is among the Conſpirators with Abſalom.</hi>
+            </p>
+            <p>I proceed now to the <hi>Second</hi> General, <hi>Da<g ref="char:EOLhyphen"/>vid</hi>'s <hi>Defenſative</hi> againſt the Danger diſcover'd in the next words: <hi>And David ſaid, O Lord, I pray thee turn the Counſel of Achitophel into Fooliſh<g ref="char:EOLhyphen"/>neſſe.</hi>
+            </p>
+            <p>And herein three Things alſo preſent them<g ref="char:EOLhyphen"/>ſelves to our Conſideration.</p>
+            <p>Firſt, The Perſon to whom <hi>David</hi> ſeeks and applyes himſelf, which is <hi>God;</hi> and <hi>David</hi> ſaid, <hi>O Lord.</hi>
+            </p>
+            <pb n="17" facs="tcp:101345:11"/>
+            <p>Secondly, The Means which <hi>David</hi> uſeth in his Search or Addreſs to the Lord, <hi>Prayer.</hi> O Lord, <hi>I pray thee.</hi>
+            </p>
+            <p>Thirdly, The Summe and Tenour of <hi>Da<g ref="char:EOLhyphen"/>vid</hi>'s Prayer, <hi>O Lord, I pray thee, turn the Coun<g ref="char:EOLhyphen"/>ſel of Achitophel into Fooliſhneſs.</hi>
+            </p>
+            <p>I begin with the Firſt of theſe: The <hi>Perſon</hi> to whom <hi>David</hi> doth ſeek and apply himſelf, The <hi>Lord;</hi> And <hi>David</hi> ſaid, <hi>O Lord.</hi>
+            </p>
+            <p>
+               <hi>David</hi> who was called, <hi>A man after God's own heart,</hi>
+               <note place="margin">1 Sam. 13.14.</note> had that Eulogy and Commenda<g ref="char:EOLhyphen"/>tion (as ſome think) for his Mercifulneſs. He was <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (ſaith <hi>Procopius</hi>) a Lover of the Poor, a compaſſionate man.
+<note place="margin">
+                  <hi>Willet,</hi> p. 48.</note> But others are of opinion, that <hi>David</hi> was called ſo for his <hi>Faithful Dependance</hi> upon God in all Dangers, which did either threaten or affright him. He had a faithful heart, a heart that was Conſtant and True to his God. How often doth he profeſs it? as <hi>Pſal.</hi> 57. <hi>O Lord my heart is fixed,</hi>
+               <note place="margin">Verſe 7. Verſe 2.</note> 
+               <hi>my heart is fixed.</hi> And again, <hi>Pſal.</hi> 108. <hi>O God my heart is fixed.</hi> His heart was ſuch as would never ſtart or recoyl from God, no not in the greateſt Fears and Concuſſions whatſo<g ref="char:EOLhyphen"/>ever. Even in this great Danger he keeps cloſe to his God.
+<note place="margin">
+                  <hi>Cajet.</hi> in 1 Sam. p. 97.</note> The Reaſon that <hi>Cajetan</hi> gives, doth indeed vary in words, but is to
+<pb n="18" facs="tcp:101345:12"/>the ſelf ſame Effect and Purpoſe. <q>When <hi>Da<g ref="char:EOLhyphen"/>vid</hi> (ſaith he) is ſaid to be <hi>a man after God's own heart,</hi> God who calls him ſo, ſaith, <hi>I have ſought a man after mine own heart;</hi>
+               </q>
+               <note place="margin">1 Sam. 13.14.</note> Whence <hi>Cajetan, Quaeſitus erat David, ideóque ad ſimilitu<g ref="char:EOLhyphen"/>dinem quaerentis: David</hi> was ſought by God, and therefore was a man like God. As he was, <hi>quaeſitus à Deo;</hi> ſo was he, <hi>vir quaerens De<g ref="char:EOLhyphen"/>um.</hi> So that he that ſeeks God in his Diſtreſs, is <hi>a man after</hi> God's <hi>own heart.</hi> This was this Pious King's Practice in all Difficulties, in all approaches of Trouble and Affliction; <hi>I ſought the Lord,</hi>
+               <note place="margin">Pſal. 34.4.</note> 
+               <hi>and he delivered me. I ſought him in the day of my Trouble,</hi>
+               <note place="margin">Pſal. 77.2,</note> yea I ſought him <hi>in the Night,</hi> when <hi>my Sore ran; Plagâ fluente, &amp; non quieſcente;</hi> when my Wound bled, and my Pain was upon me: and that in the <hi>Night,</hi> the moſt diſmal and diſconſolate Condition; even Then I ſought him. It is the ſame Lord, whom he ſeeks in this Place, and to whom he doth apply himſelf in the great danger that was Imminent at that Time. One tells <hi>David</hi> of a Treaſon and Conſpiracy againſt him. <hi>David</hi> runs immediately to God, and ſaid, <hi>O Lord.</hi>
+            </p>
+            <p>Too many among us ſwerve from this Ex<g ref="char:EOLhyphen"/>ample of <hi>David,</hi> as,</p>
+            <pb n="19" facs="tcp:101345:12"/>
+            <p>
+               <hi>Firſt,</hi> Thoſe who in their Afflictions and Neceſſities look not up to God, but caſt their Eyes only on Inferior and Second Cauſes.
+<note place="margin">2 Pet. 1.9. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> Thoſe are they of which the Apoſtle <hi>Peter</hi> ſpeaks, <hi>ſhort-ſighted, purblind</hi> men, men <hi>of thick eyes,</hi> that can ſee only ſuch Objects as are at hand, ſuch as are the objects of their Senſes. It was God's complaint of <hi>Ephraim</hi> and <hi>Judah,</hi>
+               <note place="margin">
+                  <hi>Hoſea</hi> 5.</note> That they could ſee no further than their neighbour Nations, their Friends and Allyes for help. <hi>They ſaw their wound,</hi> but they went not to God; no, they <hi>went to the Aſſyrian, and ſent to King Jareb, who</hi> (as the Prophet tells us) <hi>could not heal, nor cure their wound.</hi>
+               <note place="margin">Verſe 13.</note> They could diſcern nothing but the Arm of Fleſh, which was viſible to their fleſhly Eyes; they had not the Eye of Faith which <hi>ſees afar off,</hi> even <hi>the things which are not ſeen.</hi>
+               <note place="margin">2 Cor. 4. <hi>ult.</hi>
+               </note> Or</p>
+            <p>
+               <hi>Secondly,</hi> Such as ſee no help at all, but are caſt down in damps of Dejection and Deſpair, like the <hi>Philiſtins</hi> in 1 <hi>Sam.</hi>
+               <note place="margin">Chap. 4. <hi>v.</hi> 8.</note> who cry<g ref="char:EOLhyphen"/>ed out, <hi>Woe unto us, who ſhall help us?</hi> they <hi>are even at their wits end.</hi> Or,
+<note place="margin">Pſal. 107.27.</note>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> If they do <hi>ſee afar off,</hi> they look the wrong way. Inſtead of looking up to God with <hi>David,</hi>
+               <note place="margin">Pſal. 121.3.</note> whoſe <hi>eyes</hi> were <hi>lifted up unto the Hills,</hi> they look down to the ſmoaky Gates
+<pb n="20" facs="tcp:101345:13"/>of Hell,
+<note place="margin">1 Sam. 28.7.</note> as <hi>Saul</hi> did to the <hi>Witch</hi> of <hi>Endor.</hi> Deſperate Sinners will look after any Shifts, rather than they will turn to God. But <hi>Da<g ref="char:EOLhyphen"/>vid</hi> here knew well, that when a Danger is threatned from a Malicious Enemy, ſuch as <hi>Achitophel</hi> was, in whom Policy and Power were both combin'd, none is able to defeat ſuch an Adverſary but God himſelf, to whom he makes his Addreſs.</p>
+            <p>And it would be happy for us, if we would follow his Example, and in all our Extremi<g ref="char:EOLhyphen"/>ties fly unto our good God for Relief and Succour. We are all even at this time again, in a Panick Fear, becauſe of the Treachery of the <hi>Papiſts;</hi> A ſecond <hi>Powder-plot</hi> was to have been acted amongſt us, the very Con<g ref="char:EOLhyphen"/>ſideration whereof has put us into ſuch a Ge<g ref="char:EOLhyphen"/>neral Conſternation and Aſtoniſhment, that we are in <hi>Jehoſhaphat</hi> and <hi>Judah</hi>'s Condition, <hi>We know not what to doe;</hi>
+               <note place="margin">2 Chron. 20.</note> The Counſel that I ſhall adviſe you to, is the courſe that they took in the words Immediately following, <hi>Our eyes are upon thee.</hi>
+               <note place="margin">Verſe 13.</note> Lift up your Eyes and your Hearts unto the Lord, and truſt in the Name of God, and then no doubt, but he will ſome way or other rid you of your Ene<g ref="char:EOLhyphen"/>mies, and bring you out of your Diſtreſs, or
+<pb n="21" facs="tcp:101345:13"/>elſe (if a tryal of your Conſtancy and Chriſti<g ref="char:EOLhyphen"/>an Courage be moſt for his Glory) ſupport you under it. For, <hi>Surely,</hi>
+               <note place="margin">Prov. 18.10.</note> 
+               <hi>the Name of God is a ſtrong Tower, the righteous runneth into it and is ſafe.</hi> Let us not ſtand Amazed, or in ſuſpence what to doe, in a Fluctuation and doubtfull diſpute with our ſelves; No, let us firſt humble our ſelves for our ſins, and then run and be<g ref="char:EOLhyphen"/>take our ſelves with ſpeed to this Tower, leaving the Iſſue to God and his Anointed, the King and Parliament, while we uſe the Means which <hi>David</hi> did in the Conſpiracy of the Text, and that is, <hi>Prayer,</hi> Our next Par<g ref="char:EOLhyphen"/>ticular, and now comes to be inſiſted on. <hi>And David ſaid,</hi> O Lord, <hi>I pray thee.</hi>
+            </p>
+            <p>As Protection and Deliverance from Dan<g ref="char:EOLhyphen"/>gers are works of God's Providence, ſo Prayer is a means ſubſervient to this Providence. Prayer is a Condition without which there is no one thing we have Promiſe to receive from God. <hi>Ask and ye ſhall have,</hi> not otherwiſe.
+<note place="margin">Mat. 7.7.</note> And for this cauſe <hi>David</hi> no ſooner hears of <hi>A<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>itophel</hi> in the Conſpiracy, a Combination of ſuch ſtrong and Malitious Politicians, but <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> falls immediately to Prayer. <hi>Lord, I pray <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi>
+            </p>
+            <p>It was <hi>David</hi>'s Practice here and elſewhere,
+<note place="margin">Pſal. 109.4.</note>
+               <pb n="22" facs="tcp:101345:14"/>and it muſt be ours, if we would be deliver'd as <hi>David</hi> was.
+<note place="margin">Pſal. 46.1.</note> 
+               <hi>God is a Preſent help in</hi> the day of <hi>Trouble,</hi> and 'tis our Duty to Pray to him for his Aſſiſtance.</p>
+            <list>
+               <item>Firſt, God's <hi>Command</hi> requires it, when we are engaged in the greateſt Difficulties. <hi>Call upon me in the day of Trouble.</hi>
+                  <note place="margin">Pſal. 50.15.</note>
+               </item>
+               <item>Secondly, God's <hi>Promiſe</hi> is obliged, and annexed to our Prayers.
+<note place="margin">Pſal. 91.15.</note> 
+                  <hi>He ſhall call upon me, and I will anſwer him, I will be with him in Trouble, and will deliver him.</hi>
+               </item>
+            </list>
+            <p>Much here might be added concerning the Duty, Power and Efficacy of Prayer, as that, it is as <hi>Incenſe</hi> to the Noſtrils of the Almighty;
+<note place="margin">Pſal. 141.2.</note> A <hi>Sacrifice</hi> wherewith he is well-pleaſed. Of that force, that it
+<note n="a" place="margin">Jam. 5.17, 18.</note> 
+               <hi>opens</hi> and <hi>ſhuts</hi> Heaven; has Command over the Sun
+<note n="b" place="margin">Joſh. 10.12.</note> and Moon, to make them <hi>ſtand ſtill</hi> at Noon-day; allayes the fury of the
+<note n="c" place="margin">Numb. 11.2.</note> 
+               <hi>Fire,</hi> and the raging of the
+<note n="d" place="margin">Exod. 14.15.</note> 
+               <hi>Sea;</hi> Cures the
+<note n="e" place="margin">Acts 28.8.</note> Body of <hi>Diſeaſes,</hi> and the
+<note n="f" place="margin">Job 42.8, 10.</note> Soul of <hi>Sin:</hi> In a word, that conquers
+<note n="g" place="margin">1 Kings 17.20, 21, 22.</note> 
+               <hi>Death,</hi> and the
+<note n="h" place="margin">Mat. 17.21.</note> 
+               <hi>Devil,</hi> and in a manner (if I may ſpeak it with Modeſty) even
+<note n="i" place="margin">Exod. 32.10.</note> 
+               <hi>God</hi> himſelf. <hi>Let me alone,</hi> ſaith he to <hi>Moſes;</hi> as if he could not do what he was about, untill <hi>Moſes</hi> ceas'd Praying. But this is a trite Subject, we meet with it often, and therefore I purſue it not at
+<pb n="23" facs="tcp:101345:14"/>preſent, but proceed from the Means, <hi>Prayer,</hi> to the <hi>Form</hi> or Tenor of this Prayer, or (if you will) to the <hi>Object</hi> of it, the thing which <hi>David</hi> prays for, which is next in order, and craves your Patience yet a little longer; O Lord, I pray thee, <hi>turn the Counſel of Achitophel into fooliſhmeſs.</hi>
+            </p>
+            <p>The ſame God who makes Wiſe the God<g ref="char:EOLhyphen"/>ly, doth infatuate the Wicked. <hi>Thou,</hi> O Lord,
+<note place="margin">Pſal. 119.98.</note> (ſaith <hi>David) haſt made me wiſer than mine Ene<g ref="char:EOLhyphen"/>mies.</hi> That <hi>David</hi> was <hi>wiſe,</hi> yea <hi>wiſer than</hi> his <hi>Enemies,</hi> he acknowledges to be God's do<g ref="char:EOLhyphen"/>ing, <hi>Thou through thy Commandments,</hi> through the Light of thy Word haſt done it. On the other ſide, it is Gods work too to infatuate and befool the Ungodly, ſuch as conſpire againſt his Church and Anointed; As <hi>Abſa<g ref="char:EOLhyphen"/>lom</hi> and <hi>Achitophel</hi> did in this Scripture, and as the <hi>Popiſh</hi> Traitors, whoſe Wickedneſs we commemorate this day, with that Mark of Shame, and brand of Infamy which is due unto them.</p>
+            <p>The ſumme of <hi>David</hi>'s Prayer is here in the <hi>Hebrew</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which word imports a <hi>be<g ref="char:EOLhyphen"/>fooling,</hi> an <hi>infatuating,</hi> a bereaving of Under<g ref="char:EOLhyphen"/>ſtanding and Judgment, or as 'tis in our <hi>Engliſh</hi> Tranſlation, a <hi>turning into Fooliſhneſs.</hi>
+               <pb n="24" facs="tcp:101345:15"/>God is that God of whom <hi>Job</hi> ſaith, he <hi>makes the Judges Fools,</hi>
+               <note place="margin">Job 12.17.</note> 
+               <hi>and leads away the Counſellors ſpoyled;</hi> ſo we render it. In the <hi>Latine</hi> it is, <hi>adducit Conſiliarios in ſtultum finem,</hi> makes Judges Fools, and <hi>brings Counſellors to a fooliſh end.</hi> The word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is <hi>ſpoyled</hi> not only of Goods, but of Reaſon and Underſtanding. Thus it is tranſlated <hi>Pſal.</hi>
+               <note place="margin">Verſe 5.</note> 76. <hi>The ſtout-hearted are ſpoyled</hi> or <hi>robbed,</hi> which muſt not be under<g ref="char:EOLhyphen"/>ſtood ſo much of Goods, as of Reaſon and Judgment, of Courage and Animoſity; So here the <hi>Counſellors ſpoyled,</hi> is as much as to ſay, they are <hi>befooled.</hi> He is that God that, as <hi>Iſaiah</hi> ſpeaks,
+<note place="margin">Iſa. 19.3.</note> 
+               <hi>deſtroyeth the Counſels of Egypt,</hi> that challengeth all the Policy of men, and bids defiance to it.
+<note place="margin">Verſes 11, 12.</note> 
+               <hi>Where are thy wiſe men?</hi> ſaith he to <hi>Pharaoh; Who makes the Counſel<g ref="char:EOLhyphen"/>lors of Pharaoh brutiſh, and the Princes of Zoan Fools.</hi>
+               <note place="margin">Iſa. 44.25.</note> Laſtly, <hi>he,</hi> that God, <hi>that maketh Divi<g ref="char:EOLhyphen"/>ners mad, turneth Wiſe men backward, and maketh their knowledge fooliſh;</hi> and to whom the <hi>Wiſ<g ref="char:EOLhyphen"/>dom of the World is Fooliſhneſs.</hi>
+               <note place="margin">1 Cor. 3.19.</note> This was the ſumm of <hi>David</hi>'s Prayer againſt that Wicked and Unnatural Conſpiracy which at that Time was on foot againſt him. <hi>Lord, turn the Coun<g ref="char:EOLhyphen"/>ſel of Achitophel into Fooliſhneſs.</hi> A ſhort Ejacu<g ref="char:EOLhyphen"/>lation, the words few, but ſo Powerful and
+<pb n="25" facs="tcp:101345:15"/>Effectual with God, that by them was over<g ref="char:EOLhyphen"/>thrown all the Policy of <hi>Achitophel</hi> and his Complotters riſen up in Rebellion againſt God's Anointed.</p>
+            <p>I ſhall ſhut up all in a brief Application, wherein (becauſe I would not be too forward in ſpeaking to this preſent Plot 'till it be fully diſcovered, which we ſhould all wiſh and ear<g ref="char:EOLhyphen"/>neſtly pray to God for) give me leave to draw before you a Parallel between the Defeating of <hi>Achitophel</hi>'s Treaſon of old, and thoſe <hi>Po<g ref="char:EOLhyphen"/>piſh</hi> Traitors in King <hi>James</hi>'s days, our De<g ref="char:EOLhyphen"/>liverance from whom we Commemorate year<g ref="char:EOLhyphen"/>ly this day.</p>
+            <p>And firſt, This may acquaint us with the variety of God's Methods, and the many ways he hath to defeat and diſappoint the Wicked, who like <hi>Gebal</hi> and <hi>Ammon</hi> and <hi>Amalek</hi> knot themſelves together againſt his Church and Anointed, as thoſe <hi>Papiſts</hi> did about Seventy three years ſince, and do now again at this Time. Who Wiſe than <hi>Achitophel,</hi> whoſe Counſel for Authority (you heard) was held as the Oracle of God? Yet let all the <hi>Achito<g ref="char:EOLhyphen"/>phels, Machiavels, Judaſſes</hi> and <hi>Julians</hi> of the World, let them all, I ſay, combine, and joyn in weaving the moſt ſubtle and Arti<g ref="char:EOLhyphen"/>ficial
+<pb n="26" facs="tcp:101345:16"/>Web of Treaſon, God is able to unra<g ref="char:EOLhyphen"/>vel it, and take it aſunder thred by thred, that every Eye may look through the Folly of their Ungodly Deſigns.</p>
+            <p>I cannot tell you all the Means that God hath to <hi>turn the Counſel</hi> of Traitors <hi>into Fooliſh<g ref="char:EOLhyphen"/>neſs,</hi> for who can ſet bounds to the Infinite and Incomprehenſible Wiſdom of God? Let it ſuffice, that I point to ſome few notable ways, obſervable by us, by which God hath, and doth ſtill <hi>turn the Counſel</hi> of Wicked Re<g ref="char:EOLhyphen"/>bels (ſuch as roſe up againſt <hi>David</hi> at this Time) <hi>into Fooliſhneſs.</hi>
+            </p>
+            <p>The Means eſpecially are Five.</p>
+            <p>Firſt, God turns their <hi>Counſel into Fooliſhneſs,</hi> by Countermining and oppoſing their Coun<g ref="char:EOLhyphen"/>ſels by <hi>weak</hi> and <hi>Improbable Means.</hi> So he countermin'd <hi>Achitophel</hi> by <hi>Huſhai,</hi>
+               <note place="margin">2 Sam. 17.</note> a man not of that deep reach or Excellency that <hi>Achito<g ref="char:EOLhyphen"/>phel</hi> was, a man that had not that Eſtimati<g ref="char:EOLhyphen"/>on or Opinion; yet his Counſel muſt be in<g ref="char:EOLhyphen"/>clin'd unto, and <hi>Achitophel</hi>'s rejected. How could <hi>Achitophel</hi> but think himſelf beſotted and befooled, ſcorned and neglected, when the Counſel of an Upſtart and Novice is preferr'd before his? In the like manner, God befooled <hi>Pharaoh</hi> and his Hoſt by <hi>Unlikely Means;</hi>
+               <pb n="27" facs="tcp:101345:16"/>Againſt all his <hi>Horſes and Chariots</hi> he ſent Ar<g ref="char:EOLhyphen"/>mies of <hi>Frogs</hi> and <hi>Flies.</hi>
+               <note place="margin">Exod. 8.2, 21.</note> So all the Policy of the <hi>Gentiles</hi> in upholding their Idol-Gods, all their Learning and Wiſdom he ſilenced and <hi>confounded</hi> by the <hi>Fooliſhneſs of Preaching,</hi>
+               <note place="margin">1 Cor. 1.21.</note> as God is pleaſed to call it. And ſo in this <hi>Pow<g ref="char:EOLhyphen"/>der-plot,</hi> A <hi>ſmall unlikely Means,</hi> the ſending of an obſcure Letter, which was hard to be con<g ref="char:EOLhyphen"/>ſtrued, befool'd all their Wiſdom. Traitors in all Ages have been betrayed by their own Folly. That's the firſt way how God turns <hi>the Counſels</hi> of <hi>Achitophel into Fooliſhneſs,</hi> by Weak and Unlikely Means.</p>
+            <p>Secondly,
+<note place="margin">Job 5.13.</note> By <hi>taking them in their own Crafti<g ref="char:EOLhyphen"/>neſs.</hi> God makes the Policy of all Wicked <hi>Machiavels</hi> a Snare to entangle their own Nets.
+<note place="margin">Chap. 20.4<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> In the Firſt of <hi>Kings,</hi> we read of <hi>Benhadad</hi> King of <hi>Syria,</hi> that he came up againſt <hi>Sama<g ref="char:EOLhyphen"/>ria</hi> and beſieged it; but God; who called him, <hi>Vir retis mei,</hi> made him fall a Prey into the hands of <hi>Iſrael.</hi> So was it with <hi>Achitophel;</hi> he that would have taken his <hi>Sovereign,</hi> was him<g ref="char:EOLhyphen"/>ſelf taken in his own Halter; The common End of all Traitors, their own Policies trip up their own heels.</p>
+            <p>A <hi>third</hi> way, How God <hi>turns the Counſel:</hi> of the Wicked <hi>into Fooliſhneſs,</hi> is by <hi>Dividing</hi>
+               <pb n="28" facs="tcp:101345:17"/>them in their own <hi>Aims</hi> and <hi>Deſigns,</hi> by <hi>raiſing Jealouſies</hi> among themſelves, and melting their hearts into Panick Fears and Terrors. This was the Courſe God took to diſcomfit the hoſt of the <hi>Syrians;</hi>
+               <note place="margin">2 Kings 7 8.</note> 
+               <hi>The Lord made them to hear a Noiſe of Chariots, and a Noiſe of Horſes, even the Noiſe of a great Hoſt, wherefore they aroſe and fled for their Life,</hi> when there was no Danger near. And thus dealt he with the Builders of <hi>Babel;</hi>
+               <note place="margin">Gen. 11.</note> they agreed all to work Confuſion, 'till at laſt they were ſo <hi>confounded,</hi> that they could not underſtand any more one anothers <hi>Lan<g ref="char:EOLhyphen"/>guage.</hi> This was the Caſe of thoſe <hi>Popiſh</hi> Conſpirators; what Diſputes were there? What difference among themſelves how to diſpoſe of the Kings Children, after the King himſelf was blown up? and how to ſhare ſuch and ſuch Lands? It is uſual with Trai<g ref="char:EOLhyphen"/>tors as with Thieves; their particular Intereſt ſets them together by the Ears, and <hi>turns their Counſel into Fooliſhneſs.</hi>
+            </p>
+            <p>A <hi>fourth</hi> way is Cutting them off by <hi>Death</hi> in the works of their own Deſigns, while their Plot is but on the Anvile, and ham<g ref="char:EOLhyphen"/>mering; The Lot of <hi>Antiochus, Herod, Julian,</hi> and many others; and the ſame that befell thoſe <hi>Popiſh</hi> Traitors, who were opportunely
+<pb n="29" facs="tcp:101345:17"/>cut off by the hands of Juſtice. Traitors walk always, as though they trod the Scaffold; The Axe of God's Juſtice is evermore turn'd upon them, and they are ſtill menaced with Deſtruction.</p>
+            <p>A <hi>fifth</hi> and laſt way (for I will inſtance in no more) is <hi>ſurprizing</hi> them in their greateſt <hi>Security;</hi> and diſappointing them of their hopes, even Then, when they are ready to graſp them. The rich <hi>Miſer</hi> in the Goſpel had Corn, Wine and Oyl, had all in his <hi>Barns</hi> and Store-houſes for many years; but is deceived, he cannot enjoy them <hi>one Night.</hi>
+               <note place="margin">Like 12.20.</note> How was he befool'd? how were his <hi>Counſels</hi> and Ex<g ref="char:EOLhyphen"/>pectations <hi>turn'd into Fooliſhneſs?</hi> Even ſo was it with thoſe <hi>Romiſh</hi> Traitors, they had a Helliſh <hi>Birth,</hi> but it prov'd Abortive for want of <hi>ſtrength to bring forth?</hi>
+               <note place="margin">Iſa. 37.3.</note> All the Plot ſuited to their Deſires; The Vault was hired, the Gunpowder laid, the Barrels and Engines of Death hid and diſguiſed, the Train laid, Match ready, and all this Undiſcover'd: How near were they now! how near the end of their Helliſh Deſigns! one ſpark of Fire had done all; and how ſoon is that ſtruck! Yet now behold, God, the Keeper of our <hi>Iſrael.</hi> (who all this while overlook'd
+<pb n="30" facs="tcp:101345:18"/>all their Actions, and heard their guilty Whiſpers) diſappoints and befools them. Traitors ſeldom fare better; when they are, as they imagine, neareſt to their Ends, God wreſts the Booty from them, and ſets them further off than ever from their Purpoſes. While they go on in their Plots and Coun<g ref="char:EOLhyphen"/>ſels and ſerious Projections, That God who is called by the Prophet <hi>Amos,</hi>
+               <note place="margin">Amos. 5.9.</note> 
+               <hi>Deus ſubridens vaſtitatem,</hi> (ſo in the <hi>Latine</hi> with much Allow<g ref="char:EOLhyphen"/>ance from the <hi>Hebrew</hi>) ſports and laughs at them, bringing Deſtruction upon their <hi>Coun<g ref="char:EOLhyphen"/>ſels,</hi> which Infatuates and <hi>turns</hi> them <hi>into Foo<g ref="char:EOLhyphen"/>liſhneſs.</hi>
+            </p>
+            <p>And now after all this on God's Part, there remains certainly ſomething to be done on Ours.</p>
+            <p>
+               <hi>Secondly</hi> therefore, Let the Conſideration hereof invite us to the Exerciſe of a double Duty, <hi>Thankfulneſs</hi> and <hi>Prayer.</hi>
+            </p>
+            <p>As to the <hi>Firſt</hi> of theſe, <hi>David</hi> tells us, That <hi>it is a good thing to give Thanks unto the Lord,</hi>
+               <note place="margin">Pſal. 92.1, 2.</note> 
+               <hi>and to praiſe his Holy Name, to ſhew forth his Loving kindneſs in the Morning, and his Faithfulneſs every Night.</hi> 'Tis a Duty wherein we reſem<g ref="char:EOLhyphen"/>ble the bleſſed Angels of Heaven, and which we muſt never forget on Earth; Gods Mercies
+<pb n="31" facs="tcp:101345:18"/>are Renewed to us every Morning, and eve<g ref="char:EOLhyphen"/>ry moment gives us ſome Evidence of his Love to us. He cloaths, he feeds us, and pre<g ref="char:EOLhyphen"/>ſerves us from Innumerable Dangers; and therefore 'tis but Reaſon, as for him to ex<g ref="char:EOLhyphen"/>pect, ſo for us to pay him the Tribute of our Thanks, and that daily and hourly. But theſe are Private Thankſgivings; there are Bleſſings that concern the Publick, as the Peace, Plenty and Safety of the Nation where<g ref="char:EOLhyphen"/>in we live, and theſe we muſt thank God for in our Publick Capacities; But eſpecially we ſhould take Notice of Gods Signal Delive<g ref="char:EOLhyphen"/>rances either from his greater Judgments, or the Enemies of our Church and State; The latter of Theſe concerns us more Peculiarly at preſent, and which I am briefly to exhort you to, as it relates to the Diſcovery of the <hi>Powder-plot.</hi> And here to raiſe your Grati<g ref="char:EOLhyphen"/>tude, I ſhall deſire you to reflect and conſi<g ref="char:EOLhyphen"/>der a little, Who were deſigned to Deſtructi<g ref="char:EOLhyphen"/>on in this Plot, and what the ſad Conſe<g ref="char:EOLhyphen"/>quences of it would have been, had it taken effect; The latter of theſe we can but gueſs at; the former is moſt certain, that it was deſign'd againſt King and Parliament, which
+<pb n="32" facs="tcp:101345:19"/>(you know) is made up of the Honourable Nobility and Reverend Biſhops, of our faith<g ref="char:EOLhyphen"/>ful Counſellors and grave Judges; in a word, of the greateſt part of the worthy Knights and Gentlemen of our Land. All theſe muſt have been diſpatched as in the twinkling of an eye, and at one mighty Thunder-clap been ſent to Heaven together; where though they ſhould have been happy to Eternal Ages, we ſhould for a while have been left behind to bewail the wretched Condition of this our helpleſs Land, and mournfully to weep forth the ſad Elegies of <hi>Sion; for a while,</hi> I ſay, for though <hi>Poena Damni,</hi> our Puniſhment in the Loſs of our Pious King and Parliament might not preſently have broken our hearts, yet <hi>Poena Senſûs,</hi> the <hi>Inquiſition</hi> would, unleſs we would ſubmit to the Yoak of <hi>Popery,</hi> and to ſave our Bodies for a moment, have damn'd our Souls for ever. All this I ground upon this eaſie Suppoſition, that had this Plot of theirs met with its hop'd Succeſs, they would have Introduc'd the Eſtabliſhment of <hi>Popery,</hi> and probably back'd the Obſervance of it with an <hi>Inquiſition.</hi> And then what good Chriſtian could have expected, but to feel
+<pb n="33" facs="tcp:101345:19"/>the Tortures of the Rack or Gibbet? and to hear of many doleful Outcries, many Shrieks and Groans, and other ſad. Notes from the diſtreſſed Proteſtants? And is not this, O ye men and Brethren, matter of a Thankſgiving to us, that God deliver'd us from this Plot, and ſnatch'd us as <hi>Firebrands out of the Fire?</hi>
+               <note place="margin">Amos 4.11.</note> Is it not worthy of our Everlaſting Remem<g ref="char:EOLhyphen"/>brance, that he ſuffered us not to become their Prey, nor to be cloathed with Shame and Diſhonour? Certainly, if this be not, 'tis not eaſie to name a Temporal Deliverance that is. For alas, who are we? and what is there in us, that God ſhould ſignalize this Nation with ſuch a Complicated Mercy? We are a very ſinful and Rebellious People, and therefore might juſtly fear, that God ſhould rather give us up into the hands of our Enemies, than deliver us from them. We have deſerv'd his Anger, and muſt there<g ref="char:EOLhyphen"/>fore confeſs,
+<note place="margin">Lam. 3.22.</note> that <hi>it is of the Lords Mercies that we are not Conſumed, becauſe his Compaſſions fail not.</hi> God hath hitherto preſerved us, and would fain preſerve us ſtill, if we would pay him Obedience, and anſwer his Mercies with fit returns of Gratitude. Then might other Na<g ref="char:EOLhyphen"/>tions
+<pb n="34" facs="tcp:101345:20"/>daſh one againſt another, and the World tumble upon heaps; whatever Confuſion there is in other Kingdoms, whatever Plots and Conſpiracies againſt This; of us God would take a Peculiar Care and Charge. Which that he may doe, let us add to our Thank<g ref="char:EOLhyphen"/>fulneſs for the Time paſt, our Prayers for the time to come.</p>
+            <p>Firſt, That he would be pleaſed to make us more Thankful for all his great and unde<g ref="char:EOLhyphen"/>ſerved Mercies, Private and Publick, Tempo<g ref="char:EOLhyphen"/>ral and Spiritual, eſpecially for this Signal Preſervation from <hi>Popery,</hi> and for this great Deliverance of <hi>King</hi> and <hi>Parliament.</hi>
+            </p>
+            <p>Secondly, That he would continue ſtill to <hi>turn the Counſels of Achitophel into Fooliſhneſs,</hi> and diſcover more and more the Plots and De<g ref="char:EOLhyphen"/>ſigns of the Enemies of his Church, and our Peace; That he would lay open more and more their fraudulent and wicked Purpoſes (eſpecially the <hi>Papiſts</hi> and <hi>Jeſuits</hi> at this Time) to render them as Odious to men, as they are to God.</p>
+            <p>Thirdly and laſtly, That he would con<g ref="char:EOLhyphen"/>tinue and perpetuate his Mercy in Preſerving our Gracious <hi>Sovereign,</hi> that now is, with this
+<pb n="35" facs="tcp:101345:20"/>
+               <hi>Proteſtant Church</hi> and Common-wealth, from all Treaſons and Traiterous Conſpiracies:</p>
+            <closer>
+               <hi>Which God grant to us of this Kingdom, for his Son Chriſt Jeſus's ſake, To whom with the Father and the Holy Spirit be aſcribed by us (as is moſt due) all Honour, Glory, Power, Might, Majeſty, Wiſdom and Thanksgiving, henceforward, and for ever<g ref="char:EOLhyphen"/>more.</hi> Amen.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
